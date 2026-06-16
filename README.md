@@ -93,7 +93,7 @@ Developed an executive dashboard to monitor:
 
 ### Interactive Tableau Dashboard
 
-👉 [Paste your Tableau Public link here](https://public.tableau.com/views/Book1_17815063637320/VehicleSalesExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [Tableau Public link](https://public.tableau.com/views/Book1_17815063637320/VehicleSalesExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
